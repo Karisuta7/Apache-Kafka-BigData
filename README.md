@@ -1,4 +1,6 @@
 # Apache-Kafka-BigData
+Nama: Callista Meyra Azizah
+NRP: 5027231060
 ---
 
 # 📦 Real-Time Warehouse Monitoring System with Kafka & PySpark
